@@ -43,7 +43,7 @@ Setup Instructions
 1. Clone the Repository
 
 Terminal
-git clone https://github.com/your-username/django-todo-app.git
+git clone https://github.com/Joelwick147/REF_MAY_COHORT_2025.git
 cd django-todo-app
 
 2. Create Virtual Environment
